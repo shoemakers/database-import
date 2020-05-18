@@ -7,8 +7,6 @@
 ## 项目框架
  1. alibaba-easyexcel
  2. hibernative-validate
- 3. mybatis-plus
  4. hutools
- 
 # 如有问题请提交issue
 
